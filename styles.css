@@ -1,0 +1,73 @@
+/* Stylesheet for Bootstrap BNB 
+	Author: Miles C. Stover 11/27/19
+*/
+body {
+	background-color: lime;
+	font-family: 'Architects Daughter', cursive;
+}
+
+.nav li {
+	/*background-color: gray;*/
+	display: inline;
+	
+}
+
+.nav a {
+	font-size: 27px;
+	padding-right: 50px;
+	font-weight: bold;
+	transition: color 1s;
+}
+
+.nav a:hover {
+	text-decoration: none;
+	color: green;
+}
+
+.nav {
+	background-color: DogerBlue;
+}
+
+.jumbotron {
+	
+	height: 720px;
+	background-image: url("boat-house.jpg");
+	background-repeat: round;
+	background-attachment: fixed;
+}
+
+
+.jumbtron p {
+	font-size: 30px;	
+}
+
+h1 {
+	font-family: 'Architects Daughter', cursive;
+	color: yellow;
+	font-size: 4em;
+	font-weight: bold;
+}
+h3 {
+	color: red;
+}
+p {
+	color: yellow;
+	
+	font-size: 1.2em;
+}
+
+#one {
+	background-color: black;
+	border-color: red;
+	border-style: solid dashed solid dashed;
+}
+#two {
+	background-color: black;
+	border-color: red;
+	border-style: solid dashed solid dashed;
+}
+#three {
+	background-color: black;
+	border-color: red;
+	border-style: solid dashed solid dashed;
+}
